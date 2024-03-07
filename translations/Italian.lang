@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.1\n"
+"Project-Id-Version: 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1900-01-01 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -152,11 +152,11 @@ msgstr "Copia i nomi dei file"
 
 #. Resource IDs: (143)
 msgid "Copy path to clipboard"
-msgstr "Copia il percorso"
+msgstr "Copia il percorso completo"
 
 #. Resource IDs: (144)
 msgid "Copy paths to clipboard"
-msgstr "Copia i percorsi"
+msgstr "Copia i percorsi completi"
 
 #. Resource IDs: (147)
 msgid "Copy text result to clipboard"
@@ -342,7 +342,7 @@ msgstr "Solo un'istanza"
 
 #. Resource IDs: (142)
 msgid "Open containing folder"
-msgstr "Apri la cartella di appartenenza"
+msgstr "Apri percorso"
 
 #. Resource IDs: (141)
 msgid "Open with Editor"
